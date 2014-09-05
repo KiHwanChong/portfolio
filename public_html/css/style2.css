@@ -18,3 +18,8 @@ p3 {
     font-family: "arial" ;
     color: white;
 }
+
+img {
+    width: 330px;
+    height: auto;
+}
