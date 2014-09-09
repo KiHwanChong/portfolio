@@ -1,9 +1,17 @@
 body {
-    background-color: blueviolet
+    background-color: blueviolet;
 }
 
 .uppercase {
     font-size: 22px;
+}
+
+#current-link {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border: 4px outset blueviolet;
+    font-family: "arial" ;
 }
 
 p {
@@ -22,4 +30,11 @@ p3 {
 img {
     width: 330px;
     height: auto;
+}
+.margin {
+margin-left: 300px;    
+}
+
+.margin2 {
+    margin-left: 75px;
 }

@@ -1,7 +1,6 @@
 
 body {
-    background-color: grey;
-    background-image: url("images/01.jpg")
+    background-color: yellowgreen;
 }
 nav a {
     color: red;
@@ -9,11 +8,17 @@ nav a {
 
 #current-link {
     text-decoration: none;
+    font-size: 20px;
+    color: red;
+    border: 4px outset greenyellow;
+    font-family: "arial" ;
 }
 
 .uppercase {
     text-transform: uppercase;
     font-size: 38px;
+    color: purple;
+    font-family: "arial" ;
 }
 
 p {
@@ -28,10 +33,10 @@ img {
 }
 
 h1 {
-    border: 2px double black;
+    border: 5px ridge brown;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 400px;
+    padding-left: 500px;
     margin-top: 50px;
     margin-bottom: 50px;
     
