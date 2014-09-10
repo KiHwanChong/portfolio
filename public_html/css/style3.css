@@ -6,6 +6,7 @@ nav a {
     color: red;
 }
 
+
 #current-link {
     text-decoration: none;
     font-size: 20px;
@@ -19,6 +20,12 @@ nav a {
     font-size: 38px;
     color: purple;
     font-family: "arial" ;
+}
+
+h2 {
+    color: crimson;
+    font-family: "arial";
+    font-size: 33px;
 }
 
 p {
